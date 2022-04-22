@@ -1,1 +1,1 @@
-# 1-Countdown-Timer till to new Years
+# Countdown-Timer till to new Year
